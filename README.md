@@ -8,6 +8,8 @@ Full song/map list can be found [here](https://paste.ee/p/rwGAT)
 
 Currently there's **2316** songs/maps in db
 
+Most of the maps have either >=1k favs or >=100k playcounts in any diff, the rest are handpicked by me
+
 
 
 # Commands
