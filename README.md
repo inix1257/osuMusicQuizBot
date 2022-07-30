@@ -19,7 +19,7 @@ Most of the maps have either >=1k favs or >=100k playcounts in any diff, the res
 
 **!skip/pass** : Shows the answer of the current song and skips to next song.
 
-**!close** : Manually closes current OMQ session.
+**!stop/close** : Manually closes current OMQ session.
 
 
 
