@@ -25,6 +25,4 @@ Most of the maps have either >=1k favs or >=100k playcounts in any diff, the res
 
 - - -
 
-I'll upload the codes when it doesn't look garbage anymore
-
-contact: [@luscentos](https://twitter.com/luscentos)
+contact: [@luscentos](https://twitter.com/luscentos) | Luscent#4272
