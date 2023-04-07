@@ -3,10 +3,10 @@ A simple discord bot that provides [osu!](https://osu.ppy.sh/home) related music
 
 ## Invite link can be found [here][inviteLink]
 
-[inviteLink]: https://discord.com/api/oauth2/authorize?client_id=1001554643874222230&permissions=108544&scope=bot
+[inviteLink]: [https://discord.com/api/oauth2/authorize?client_id=1001554643874222230&permissions=108544&scope=bot](https://discord.com/oauth2/authorize?client_id=1001554643874222230&permissions=517547085632&scope=bot)
 Full song/map list can be found [here](https://paste.ee/p/rwGAT)
 
-Currently there's **2380** songs/maps in db
+Currently there's **2365** songs/maps in db
 
 Most of the maps have either >=1k favs or >=100k playcounts in any diff, the rest are handpicked by me
 
