@@ -1,5 +1,5 @@
 # osuMusicQuizBot
-A simple discord bot that provides [osu!](https://osu.ppy.sh/home) related music guessing game, written with [JDA](https://github.com/DV8FromTheWorld/JDA)
+A simple discord bot for [osu!](https://osu.ppy.sh/home) related music guessing game, written with [JDA](https://github.com/DV8FromTheWorld/JDA)
 
 ## Invite link can be found [here][inviteLink]
 
