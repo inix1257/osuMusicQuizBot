@@ -7,6 +7,7 @@ A simple discord bot for [osu!](https://osu.ppy.sh/home) related music guessing 
 Full song/map list can be found [here](https://paste.ee/p/rwGAT)
 
 Currently there are **2383** songs/maps in db
+
 for pattern guessing there are only 140 maps currently, will keep updated later
 
 Most of the maps have either >=1k favs or >=100k playcounts for any diff, the rest are handpicked by me
